@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\CrockCode.Core\CrockCode.Core.csproj" />
+    <ProjectReference Include="..\CrockCode.Engine\CrockCode.Engine.csproj" />
+    <ProjectReference Include="..\CrockCode.Storage\CrockCode.Storage.csproj" />
+    <ProjectReference Include="..\CrockCode.Providers\CrockCode.Providers.csproj" />
+    <ProjectReference Include="..\CrockCode.McpServer\CrockCode.McpServer.csproj" />
+  </ItemGroup>
+</Project>

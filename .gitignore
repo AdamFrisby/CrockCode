@@ -1,0 +1,39 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+## IDE
+.vs/
+.idea/
+*.swp
+*~
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+*.nuget.props
+*.nuget.targets
+
+## Misc
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db

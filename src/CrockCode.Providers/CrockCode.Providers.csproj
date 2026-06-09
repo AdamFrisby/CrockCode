@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\CrockCode.Core\CrockCode.Core.csproj" />
+  </ItemGroup>
+</Project>

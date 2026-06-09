@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CrockCode.Core\CrockCode.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.56.0" />
+    <PackageReference Include="System.CommandLine" Version="3.0.0-preview.4.26230.115" />
+  </ItemGroup>
+</Project>

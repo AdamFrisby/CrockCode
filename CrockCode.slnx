@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CrockCode.Coordinator/CrockCode.Coordinator.csproj" />
+    <Project Path="src/CrockCode.Core/CrockCode.Core.csproj" />
+    <Project Path="src/CrockCode.Engine/CrockCode.Engine.csproj" />
+    <Project Path="src/CrockCode.McpServer/CrockCode.McpServer.csproj" />
+    <Project Path="src/CrockCode.Providers/CrockCode.Providers.csproj" />
+    <Project Path="src/CrockCode.Storage/CrockCode.Storage.csproj" />
+    <Project Path="src/CrockCode.Cli/CrockCode.Cli.csproj" />
+    <Project Path="src/CrockCode.Tests/CrockCode.Tests.csproj" />
+  </Folder>
+</Solution>

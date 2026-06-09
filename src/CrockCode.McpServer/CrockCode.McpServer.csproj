@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\CrockCode.Core\CrockCode.Core.csproj" />
+    <ProjectReference Include="..\CrockCode.Engine\CrockCode.Engine.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="ModelContextProtocol.AspNetCore" Version="1.4.0" />
+  </ItemGroup>
+</Project>
